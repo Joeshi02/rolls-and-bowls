@@ -22,8 +22,12 @@ main {
 }
 
 .portada {
-  width: 250px;
-  height: 500px;
+  width: 100px;
+  height: 570px;
+}
+
+.colorletras {
+  color: #fc4034;
 }
 
 /*# sourceMappingURL=style.css.map */
