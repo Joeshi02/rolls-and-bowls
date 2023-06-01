@@ -1,4 +1,11 @@
 .logo{
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
+}
+.color{background-color: black;}
+.letras{color: white;}
+.letras:hover{
+    background-color:$colorletras;
+    border-radius: 30px;
+    color: white;
 }
